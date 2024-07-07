@@ -1,5 +1,5 @@
 import PostItem from "./PostItem";
-import styles from "./PostList.module.css";
+import styles from "../styles/PostList.module.css";
 
 const posts = [
   { id: "1", title: "First Post", content: "첫번째" },

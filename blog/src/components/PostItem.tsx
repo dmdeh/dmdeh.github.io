@@ -1,5 +1,5 @@
 import Link from "next/link";
-import styles from "./PostItem.module.css";
+import styles from "../styles/PostItem.module.css";
 
 interface PostItemProps {
   post: { id: string; title: string; content: string };
