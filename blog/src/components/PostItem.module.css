@@ -1,0 +1,17 @@
+.postItem {
+  background-color: #fff;
+  padding: 1rem;
+  margin: 0 1rem;
+  border-top:solid #333;
+}
+
+.postItem h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.postItem p {
+  margin: 0 0 1rem;
+  color: #666;
+}
